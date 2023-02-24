@@ -8,4 +8,4 @@ The data used by the code is not included in this repository. Data is available 
 
 `Linac_patients`: Code to do image processing on DWI from patients treated on a standard linear accelerator
 
-`Rscript_master`: R script to analyze the outputs of the image processing code in `MRL_patients` and `Linac patients`
+`Rscript_master`: R script to analyze the outputs of the image processing code in `MRL_patients` and `Linac_patients`
