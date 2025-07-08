@@ -1,5 +1,5 @@
 # low-adc-cns
-This repository contains the code associated with the publication "Glioblastoma response assessment using frequent simulation MRI and near-daily MRI-linear accelerator diffusion-weighted imaging during chemoradiation."
+This repository contains the code associated with the publication "Diffusion-weighted imaging on an MRI-linear accelerator to identify adversely prognostic tumour regions in glioblastoma during chemoradiation" [https://doi.org/10.1016/j.radonc.2023.109873].
 
 The data used by the code is not included in this repository. Data is available from the corresponding author upon reasonable request.
 
